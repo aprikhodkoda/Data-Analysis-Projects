@@ -30,9 +30,4 @@ EST_SALARY — оценочный доход клиента,
 Какие решения будут предприняты на основании анализа - проведение мероприятий, чтобы вернуть клиентов в банк или удержать сомневающихся от оттока.
 
 необходимые для проекта библиотеки
-import pandas as pd
-import datetime as dt
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy import stats as st
+pandas, datetime, numpy, matplotlib.pyplot, seaborn, scipy.stat
